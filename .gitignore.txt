@@ -2,3 +2,7 @@
 .project
 .settings
 target/
+HELP
+.metadata
+.git
+.mvn

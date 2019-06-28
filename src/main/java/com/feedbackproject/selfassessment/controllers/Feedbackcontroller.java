@@ -24,7 +24,7 @@ public class Feedbackcontroller {
 	
 	@GetMapping
 	public List<Feedback> list(){
-		//List<Feedback> feedback= new ArrayList<>();
+		List<Feedback> feedback= new ArrayList<>();
 		return feedbackRepository.findAll();
 		//return feedback;
 	}

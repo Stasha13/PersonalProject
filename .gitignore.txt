@@ -2,7 +2,9 @@
 .project
 .settings
 target/
-HELP
+HELP.md
 .metadata
 .git
 .mvn
+mvnw
+feedback

@@ -1,10 +1,10 @@
+.git/
+.metadata/
+.mvn/
+.settings/
+target/
 .classpath
 .project
-.settings
-target/
+feedback.db
 HELP.md
-.metadata
-.git
-.mvn
-mvnw
-feedback
+mvnw.cmd

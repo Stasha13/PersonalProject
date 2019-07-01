@@ -41,3 +41,6 @@ feedback.db
 HELP.md
 mvnw.cmd
 .mvn/wrapper
+.metadata
+mvnw
+

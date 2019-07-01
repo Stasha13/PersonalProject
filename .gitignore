@@ -29,3 +29,14 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.git/
+.metadata/
+.mvn/
+.settings/
+target/
+.classpath
+.project
+feedback.db
+HELP.md
+mvnw.cmd

@@ -40,3 +40,4 @@ target/
 feedback.db
 HELP.md
 mvnw.cmd
+.mvn/wrapper

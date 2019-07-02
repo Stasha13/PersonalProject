@@ -43,4 +43,7 @@ mvnw.cmd
 .mvn/wrapper
 .metadata
 mvnw
+.classpath
+.project
+.settings
 
